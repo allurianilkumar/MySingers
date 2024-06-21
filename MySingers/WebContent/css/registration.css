@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+/* Registraion Page  */
+
+section.registration-section > div > div > div.col-md-6 {
+    background-color: #eee;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+section.registration-section {
+    margin-left: 50px;
+}
+body > section.registration-section > div > div > div.col-md-6{
+    background: rgb(179, 238, 233);
+}
+/* Registration Page End */
