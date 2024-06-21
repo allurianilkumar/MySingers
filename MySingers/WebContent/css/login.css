@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+	.login-form {
+    	background-color: #eee;
+    	padding-left: 36px;
+    	padding-bottom: 12px;
+ 	}
+ 	section.login-section {
+    margin-top: 22px;
+    margin-left: 22px;
+	}
+	body > section.login-section > div > div.col-md-6{
+	    background: rgb(164, 218, 203);
+	}

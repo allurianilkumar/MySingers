@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+ /* Events Page Start */
+.row.events {
+    background: rgb(100, 163, 151);
+}
+.media-left {
+    background: rgb(141, 196, 143);
+}
+ /* Events Page End */

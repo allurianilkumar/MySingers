@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+	 body{
+		background: #D3F5F1;
+	}
+
+    .jumbotron {
+    margin-left: 20px;
+    margin-right: 12px;
+    padding-left: 30px;
+    background: #BADFBC;
+	}
+
+	.footer {
+	  position: absolute;
+	  bottom: 0;
+	  width: 100%;
+	  height: 50px;
+	  border-top: 1px solid #e7e7e7;
+	  background: rgb(195, 245, 235);
+	  padding-top: 10px;
+	 }
+
+/* Navigation Bar Start */
+
+#navbar > ul > li > a{
+color: #337ab7;
+font-size: 14px;
+}
+body > div > nav > div > div.navbar-header > a{
+color: green;
+}
+nav.navbar.navbar-default {
+    background: rgb(195, 245, 235);
+    border-bottom: 2px solid #265EB7;
+}
+
+#navbar > ul > li.active >a {
+	background: rgb(174, 229, 210);
+	color: rgba(162, 10, 101, 0.89);
+	font-size: medium;
+	text-shadow: 0 2px 0 rgba(27, 71, 75, 0.25);
+}
+
+/* Navigation Bar End */
+
+span#linkes {
+    background: green;
+}
